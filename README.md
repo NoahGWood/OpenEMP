@@ -12,7 +12,7 @@ Schematics were drawn in KiCAD and can be found in /src/Schematics
 
 ### Usage Information
 
-See document [T72]()
+See document [T72](t72.md)
 
 ## Purpose
 
