@@ -1,0 +1,1486 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:C_Small C?
+U 1 1 621DE281
+P 1550 2900
+AR Path="/621DE281" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621DE281" Ref="C1"  Part="1" 
+F 0 "C1" H 1642 2946 50  0000 L CNN
+F 1 "100uF" H 1642 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 1550 2900 50  0001 C CNN
+F 3 "~" H 1550 2900 50  0001 C CNN
+F 4 "C15008" H 1550 2900 50  0001 C CNN "JLCPCB"
+	1    1550 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621DE317
+P 2050 2900
+AR Path="/621DE317" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621DE317" Ref="C5"  Part="1" 
+F 0 "C5" H 2142 2946 50  0000 L CNN
+F 1 "100uF" H 2142 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 2050 2900 50  0001 C CNN
+F 3 "~" H 2050 2900 50  0001 C CNN
+F 4 "C15008" H 2050 2900 50  0001 C CNN "JLCPCB"
+	1    2050 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621DE391
+P 2550 2900
+AR Path="/621DE391" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621DE391" Ref="C9"  Part="1" 
+F 0 "C9" H 2642 2946 50  0000 L CNN
+F 1 "100uF" H 2642 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 2550 2900 50  0001 C CNN
+F 3 "~" H 2550 2900 50  0001 C CNN
+F 4 "C15008" H 2550 2900 50  0001 C CNN "JLCPCB"
+	1    2550 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621DE419
+P 3050 2900
+AR Path="/621DE419" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621DE419" Ref="C13"  Part="1" 
+F 0 "C13" H 3142 2946 50  0000 L CNN
+F 1 "100uF" H 3142 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 3050 2900 50  0001 C CNN
+F 3 "~" H 3050 2900 50  0001 C CNN
+F 4 "C15008" H 3050 2900 50  0001 C CNN "JLCPCB"
+	1    3050 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621DE4AF
+P 3550 2900
+AR Path="/621DE4AF" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621DE4AF" Ref="C17"  Part="1" 
+F 0 "C17" H 3642 2946 50  0000 L CNN
+F 1 "100uF" H 3642 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 3550 2900 50  0001 C CNN
+F 3 "~" H 3550 2900 50  0001 C CNN
+F 4 "C15008" H 3550 2900 50  0001 C CNN "JLCPCB"
+	1    3550 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621DE553
+P 4050 2900
+AR Path="/621DE553" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621DE553" Ref="C21"  Part="1" 
+F 0 "C21" H 4142 2946 50  0000 L CNN
+F 1 "100uF" H 4142 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 4050 2900 50  0001 C CNN
+F 3 "~" H 4050 2900 50  0001 C CNN
+F 4 "C15008" H 4050 2900 50  0001 C CNN "JLCPCB"
+	1    4050 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E202F
+P 4550 2900
+AR Path="/621E202F" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E202F" Ref="C25"  Part="1" 
+F 0 "C25" H 4642 2946 50  0000 L CNN
+F 1 "100uF" H 4642 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 4550 2900 50  0001 C CNN
+F 3 "~" H 4550 2900 50  0001 C CNN
+F 4 "C15008" H 4550 2900 50  0001 C CNN "JLCPCB"
+	1    4550 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E2035
+P 5050 2900
+AR Path="/621E2035" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E2035" Ref="C29"  Part="1" 
+F 0 "C29" H 5142 2946 50  0000 L CNN
+F 1 "100uF" H 5142 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 5050 2900 50  0001 C CNN
+F 3 "~" H 5050 2900 50  0001 C CNN
+F 4 "C15008" H 5050 2900 50  0001 C CNN "JLCPCB"
+	1    5050 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E203B
+P 5550 2900
+AR Path="/621E203B" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E203B" Ref="C33"  Part="1" 
+F 0 "C33" H 5642 2946 50  0000 L CNN
+F 1 "100uF" H 5642 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 5550 2900 50  0001 C CNN
+F 3 "~" H 5550 2900 50  0001 C CNN
+F 4 "C15008" H 5550 2900 50  0001 C CNN "JLCPCB"
+	1    5550 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E2041
+P 6050 2900
+AR Path="/621E2041" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E2041" Ref="C37"  Part="1" 
+F 0 "C37" H 6142 2946 50  0000 L CNN
+F 1 "100uF" H 6142 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 6050 2900 50  0001 C CNN
+F 3 "~" H 6050 2900 50  0001 C CNN
+F 4 "C15008" H 6050 2900 50  0001 C CNN "JLCPCB"
+	1    6050 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E2047
+P 6550 2900
+AR Path="/621E2047" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E2047" Ref="C41"  Part="1" 
+F 0 "C41" H 6642 2946 50  0000 L CNN
+F 1 "100uF" H 6642 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 6550 2900 50  0001 C CNN
+F 3 "~" H 6550 2900 50  0001 C CNN
+F 4 "C15008" H 6550 2900 50  0001 C CNN "JLCPCB"
+	1    6550 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E204D
+P 7050 2900
+AR Path="/621E204D" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E204D" Ref="C45"  Part="1" 
+F 0 "C45" H 7142 2946 50  0000 L CNN
+F 1 "100uF" H 7142 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 7050 2900 50  0001 C CNN
+F 3 "~" H 7050 2900 50  0001 C CNN
+F 4 "C15008" H 7050 2900 50  0001 C CNN "JLCPCB"
+	1    7050 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E27D5
+P 7550 2900
+AR Path="/621E27D5" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E27D5" Ref="C49"  Part="1" 
+F 0 "C49" H 7642 2946 50  0000 L CNN
+F 1 "100uF" H 7642 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 7550 2900 50  0001 C CNN
+F 3 "~" H 7550 2900 50  0001 C CNN
+F 4 "C15008" H 7550 2900 50  0001 C CNN "JLCPCB"
+	1    7550 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E27DB
+P 8050 2900
+AR Path="/621E27DB" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E27DB" Ref="C53"  Part="1" 
+F 0 "C53" H 8142 2946 50  0000 L CNN
+F 1 "100uF" H 8142 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 8050 2900 50  0001 C CNN
+F 3 "~" H 8050 2900 50  0001 C CNN
+F 4 "C15008" H 8050 2900 50  0001 C CNN "JLCPCB"
+	1    8050 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E27E1
+P 8550 2900
+AR Path="/621E27E1" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E27E1" Ref="C57"  Part="1" 
+F 0 "C57" H 8642 2946 50  0000 L CNN
+F 1 "100uF" H 8642 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 8550 2900 50  0001 C CNN
+F 3 "~" H 8550 2900 50  0001 C CNN
+F 4 "C15008" H 8550 2900 50  0001 C CNN "JLCPCB"
+	1    8550 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E27E7
+P 9050 2900
+AR Path="/621E27E7" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E27E7" Ref="C61"  Part="1" 
+F 0 "C61" H 9142 2946 50  0000 L CNN
+F 1 "100uF" H 9142 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 9050 2900 50  0001 C CNN
+F 3 "~" H 9050 2900 50  0001 C CNN
+F 4 "C15008" H 9050 2900 50  0001 C CNN "JLCPCB"
+	1    9050 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E27ED
+P 9550 2900
+AR Path="/621E27ED" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E27ED" Ref="C65"  Part="1" 
+F 0 "C65" H 9642 2946 50  0000 L CNN
+F 1 "100uF" H 9642 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 9550 2900 50  0001 C CNN
+F 3 "~" H 9550 2900 50  0001 C CNN
+F 4 "C15008" H 9550 2900 50  0001 C CNN "JLCPCB"
+	1    9550 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E27F3
+P 10050 2900
+AR Path="/621E27F3" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E27F3" Ref="C69"  Part="1" 
+F 0 "C69" H 10142 2946 50  0000 L CNN
+F 1 "100uF" H 10142 2855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 10050 2900 50  0001 C CNN
+F 3 "~" H 10050 2900 50  0001 C CNN
+F 4 "C15008" H 10050 2900 50  0001 C CNN "JLCPCB"
+	1    10050 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E2ACF
+P 7550 3400
+AR Path="/621E2ACF" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E2ACF" Ref="C50"  Part="1" 
+F 0 "C50" H 7642 3446 50  0000 L CNN
+F 1 "100uF" H 7642 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 7550 3400 50  0001 C CNN
+F 3 "~" H 7550 3400 50  0001 C CNN
+F 4 "C15008" H 7550 3400 50  0001 C CNN "JLCPCB"
+	1    7550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E2AD5
+P 8050 3400
+AR Path="/621E2AD5" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E2AD5" Ref="C54"  Part="1" 
+F 0 "C54" H 8142 3446 50  0000 L CNN
+F 1 "100uF" H 8142 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 8050 3400 50  0001 C CNN
+F 3 "~" H 8050 3400 50  0001 C CNN
+F 4 "C15008" H 8050 3400 50  0001 C CNN "JLCPCB"
+	1    8050 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E2ADB
+P 8550 3400
+AR Path="/621E2ADB" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E2ADB" Ref="C58"  Part="1" 
+F 0 "C58" H 8642 3446 50  0000 L CNN
+F 1 "100uF" H 8642 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 8550 3400 50  0001 C CNN
+F 3 "~" H 8550 3400 50  0001 C CNN
+F 4 "C15008" H 8550 3400 50  0001 C CNN "JLCPCB"
+	1    8550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E2AE1
+P 9050 3400
+AR Path="/621E2AE1" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E2AE1" Ref="C62"  Part="1" 
+F 0 "C62" H 9142 3446 50  0000 L CNN
+F 1 "100uF" H 9142 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 9050 3400 50  0001 C CNN
+F 3 "~" H 9050 3400 50  0001 C CNN
+F 4 "C15008" H 9050 3400 50  0001 C CNN "JLCPCB"
+	1    9050 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E2AE7
+P 9550 3400
+AR Path="/621E2AE7" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E2AE7" Ref="C66"  Part="1" 
+F 0 "C66" H 9642 3446 50  0000 L CNN
+F 1 "100uF" H 9642 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 9550 3400 50  0001 C CNN
+F 3 "~" H 9550 3400 50  0001 C CNN
+F 4 "C15008" H 9550 3400 50  0001 C CNN "JLCPCB"
+	1    9550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E2AED
+P 10050 3400
+AR Path="/621E2AED" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E2AED" Ref="C70"  Part="1" 
+F 0 "C70" H 10142 3446 50  0000 L CNN
+F 1 "100uF" H 10142 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 10050 3400 50  0001 C CNN
+F 3 "~" H 10050 3400 50  0001 C CNN
+F 4 "C15008" H 10050 3400 50  0001 C CNN "JLCPCB"
+	1    10050 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E331D
+P 4550 3400
+AR Path="/621E331D" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E331D" Ref="C26"  Part="1" 
+F 0 "C26" H 4642 3446 50  0000 L CNN
+F 1 "100uF" H 4642 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 4550 3400 50  0001 C CNN
+F 3 "~" H 4550 3400 50  0001 C CNN
+F 4 "C15008" H 4550 3400 50  0001 C CNN "JLCPCB"
+	1    4550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3323
+P 5050 3400
+AR Path="/621E3323" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3323" Ref="C30"  Part="1" 
+F 0 "C30" H 5142 3446 50  0000 L CNN
+F 1 "100uF" H 5142 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 5050 3400 50  0001 C CNN
+F 3 "~" H 5050 3400 50  0001 C CNN
+F 4 "C15008" H 5050 3400 50  0001 C CNN "JLCPCB"
+	1    5050 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3329
+P 5550 3400
+AR Path="/621E3329" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3329" Ref="C34"  Part="1" 
+F 0 "C34" H 5642 3446 50  0000 L CNN
+F 1 "100uF" H 5642 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 5550 3400 50  0001 C CNN
+F 3 "~" H 5550 3400 50  0001 C CNN
+F 4 "C15008" H 5550 3400 50  0001 C CNN "JLCPCB"
+	1    5550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E332F
+P 6050 3400
+AR Path="/621E332F" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E332F" Ref="C38"  Part="1" 
+F 0 "C38" H 6142 3446 50  0000 L CNN
+F 1 "100uF" H 6142 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 6050 3400 50  0001 C CNN
+F 3 "~" H 6050 3400 50  0001 C CNN
+F 4 "C15008" H 6050 3400 50  0001 C CNN "JLCPCB"
+	1    6050 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3335
+P 6550 3400
+AR Path="/621E3335" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3335" Ref="C42"  Part="1" 
+F 0 "C42" H 6642 3446 50  0000 L CNN
+F 1 "100uF" H 6642 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 6550 3400 50  0001 C CNN
+F 3 "~" H 6550 3400 50  0001 C CNN
+F 4 "C15008" H 6550 3400 50  0001 C CNN "JLCPCB"
+	1    6550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E333B
+P 7050 3400
+AR Path="/621E333B" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E333B" Ref="C46"  Part="1" 
+F 0 "C46" H 7142 3446 50  0000 L CNN
+F 1 "100uF" H 7142 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 7050 3400 50  0001 C CNN
+F 3 "~" H 7050 3400 50  0001 C CNN
+F 4 "C15008" H 7050 3400 50  0001 C CNN "JLCPCB"
+	1    7050 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3BBF
+P 1550 3400
+AR Path="/621E3BBF" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3BBF" Ref="C2"  Part="1" 
+F 0 "C2" H 1642 3446 50  0000 L CNN
+F 1 "100uF" H 1642 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 1550 3400 50  0001 C CNN
+F 3 "~" H 1550 3400 50  0001 C CNN
+F 4 "C15008" H 1550 3400 50  0001 C CNN "JLCPCB"
+	1    1550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3BC5
+P 2050 3400
+AR Path="/621E3BC5" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3BC5" Ref="C6"  Part="1" 
+F 0 "C6" H 2142 3446 50  0000 L CNN
+F 1 "100uF" H 2142 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 2050 3400 50  0001 C CNN
+F 3 "~" H 2050 3400 50  0001 C CNN
+F 4 "C15008" H 2050 3400 50  0001 C CNN "JLCPCB"
+	1    2050 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3BCB
+P 2550 3400
+AR Path="/621E3BCB" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3BCB" Ref="C10"  Part="1" 
+F 0 "C10" H 2642 3446 50  0000 L CNN
+F 1 "100uF" H 2642 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 2550 3400 50  0001 C CNN
+F 3 "~" H 2550 3400 50  0001 C CNN
+F 4 "C15008" H 2550 3400 50  0001 C CNN "JLCPCB"
+	1    2550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3BD1
+P 3050 3400
+AR Path="/621E3BD1" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3BD1" Ref="C14"  Part="1" 
+F 0 "C14" H 3142 3446 50  0000 L CNN
+F 1 "100uF" H 3142 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 3050 3400 50  0001 C CNN
+F 3 "~" H 3050 3400 50  0001 C CNN
+F 4 "C15008" H 3050 3400 50  0001 C CNN "JLCPCB"
+	1    3050 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3BD7
+P 3550 3400
+AR Path="/621E3BD7" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3BD7" Ref="C18"  Part="1" 
+F 0 "C18" H 3642 3446 50  0000 L CNN
+F 1 "100uF" H 3642 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 3550 3400 50  0001 C CNN
+F 3 "~" H 3550 3400 50  0001 C CNN
+F 4 "C15008" H 3550 3400 50  0001 C CNN "JLCPCB"
+	1    3550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3BDD
+P 4050 3400
+AR Path="/621E3BDD" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3BDD" Ref="C22"  Part="1" 
+F 0 "C22" H 4142 3446 50  0000 L CNN
+F 1 "100uF" H 4142 3355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 4050 3400 50  0001 C CNN
+F 3 "~" H 4050 3400 50  0001 C CNN
+F 4 "C15008" H 4050 3400 50  0001 C CNN "JLCPCB"
+	1    4050 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3FB5
+P 1550 3900
+AR Path="/621E3FB5" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3FB5" Ref="C3"  Part="1" 
+F 0 "C3" H 1642 3946 50  0000 L CNN
+F 1 "100uF" H 1642 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 1550 3900 50  0001 C CNN
+F 3 "~" H 1550 3900 50  0001 C CNN
+F 4 "C15008" H 1550 3900 50  0001 C CNN "JLCPCB"
+	1    1550 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3FBB
+P 2050 3900
+AR Path="/621E3FBB" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3FBB" Ref="C7"  Part="1" 
+F 0 "C7" H 2142 3946 50  0000 L CNN
+F 1 "100uF" H 2142 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 2050 3900 50  0001 C CNN
+F 3 "~" H 2050 3900 50  0001 C CNN
+F 4 "C15008" H 2050 3900 50  0001 C CNN "JLCPCB"
+	1    2050 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3FC1
+P 2550 3900
+AR Path="/621E3FC1" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3FC1" Ref="C11"  Part="1" 
+F 0 "C11" H 2642 3946 50  0000 L CNN
+F 1 "100uF" H 2642 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 2550 3900 50  0001 C CNN
+F 3 "~" H 2550 3900 50  0001 C CNN
+F 4 "C15008" H 2550 3900 50  0001 C CNN "JLCPCB"
+	1    2550 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3FC7
+P 3050 3900
+AR Path="/621E3FC7" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3FC7" Ref="C15"  Part="1" 
+F 0 "C15" H 3142 3946 50  0000 L CNN
+F 1 "100uF" H 3142 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 3050 3900 50  0001 C CNN
+F 3 "~" H 3050 3900 50  0001 C CNN
+F 4 "C15008" H 3050 3900 50  0001 C CNN "JLCPCB"
+	1    3050 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3FCD
+P 3550 3900
+AR Path="/621E3FCD" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3FCD" Ref="C19"  Part="1" 
+F 0 "C19" H 3642 3946 50  0000 L CNN
+F 1 "100uF" H 3642 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 3550 3900 50  0001 C CNN
+F 3 "~" H 3550 3900 50  0001 C CNN
+F 4 "C15008" H 3550 3900 50  0001 C CNN "JLCPCB"
+	1    3550 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E3FD3
+P 4050 3900
+AR Path="/621E3FD3" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E3FD3" Ref="C23"  Part="1" 
+F 0 "C23" H 4142 3946 50  0000 L CNN
+F 1 "100uF" H 4142 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 4050 3900 50  0001 C CNN
+F 3 "~" H 4050 3900 50  0001 C CNN
+F 4 "C15008" H 4050 3900 50  0001 C CNN "JLCPCB"
+	1    4050 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E48FF
+P 4550 3900
+AR Path="/621E48FF" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E48FF" Ref="C27"  Part="1" 
+F 0 "C27" H 4642 3946 50  0000 L CNN
+F 1 "100uF" H 4642 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 4550 3900 50  0001 C CNN
+F 3 "~" H 4550 3900 50  0001 C CNN
+F 4 "C15008" H 4550 3900 50  0001 C CNN "JLCPCB"
+	1    4550 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E4905
+P 5050 3900
+AR Path="/621E4905" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E4905" Ref="C31"  Part="1" 
+F 0 "C31" H 5142 3946 50  0000 L CNN
+F 1 "100uF" H 5142 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 5050 3900 50  0001 C CNN
+F 3 "~" H 5050 3900 50  0001 C CNN
+F 4 "C15008" H 5050 3900 50  0001 C CNN "JLCPCB"
+	1    5050 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E490B
+P 5550 3900
+AR Path="/621E490B" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E490B" Ref="C35"  Part="1" 
+F 0 "C35" H 5642 3946 50  0000 L CNN
+F 1 "100uF" H 5642 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 5550 3900 50  0001 C CNN
+F 3 "~" H 5550 3900 50  0001 C CNN
+F 4 "C15008" H 5550 3900 50  0001 C CNN "JLCPCB"
+	1    5550 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E4911
+P 6050 3900
+AR Path="/621E4911" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E4911" Ref="C39"  Part="1" 
+F 0 "C39" H 6142 3946 50  0000 L CNN
+F 1 "100uF" H 6142 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 6050 3900 50  0001 C CNN
+F 3 "~" H 6050 3900 50  0001 C CNN
+F 4 "C15008" H 6050 3900 50  0001 C CNN "JLCPCB"
+	1    6050 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E4917
+P 6550 3900
+AR Path="/621E4917" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E4917" Ref="C43"  Part="1" 
+F 0 "C43" H 6642 3946 50  0000 L CNN
+F 1 "100uF" H 6642 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 6550 3900 50  0001 C CNN
+F 3 "~" H 6550 3900 50  0001 C CNN
+F 4 "C15008" H 6550 3900 50  0001 C CNN "JLCPCB"
+	1    6550 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E491D
+P 7050 3900
+AR Path="/621E491D" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E491D" Ref="C47"  Part="1" 
+F 0 "C47" H 7142 3946 50  0000 L CNN
+F 1 "100uF" H 7142 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 7050 3900 50  0001 C CNN
+F 3 "~" H 7050 3900 50  0001 C CNN
+F 4 "C15008" H 7050 3900 50  0001 C CNN "JLCPCB"
+	1    7050 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E549D
+P 7550 3900
+AR Path="/621E549D" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E549D" Ref="C51"  Part="1" 
+F 0 "C51" H 7642 3946 50  0000 L CNN
+F 1 "100uF" H 7642 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 7550 3900 50  0001 C CNN
+F 3 "~" H 7550 3900 50  0001 C CNN
+F 4 "C15008" H 7550 3900 50  0001 C CNN "JLCPCB"
+	1    7550 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E54A3
+P 8050 3900
+AR Path="/621E54A3" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E54A3" Ref="C55"  Part="1" 
+F 0 "C55" H 8142 3946 50  0000 L CNN
+F 1 "100uF" H 8142 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 8050 3900 50  0001 C CNN
+F 3 "~" H 8050 3900 50  0001 C CNN
+F 4 "C15008" H 8050 3900 50  0001 C CNN "JLCPCB"
+	1    8050 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E54A9
+P 8550 3900
+AR Path="/621E54A9" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E54A9" Ref="C59"  Part="1" 
+F 0 "C59" H 8642 3946 50  0000 L CNN
+F 1 "100uF" H 8642 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 8550 3900 50  0001 C CNN
+F 3 "~" H 8550 3900 50  0001 C CNN
+F 4 "C15008" H 8550 3900 50  0001 C CNN "JLCPCB"
+	1    8550 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E54AF
+P 9050 3900
+AR Path="/621E54AF" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E54AF" Ref="C63"  Part="1" 
+F 0 "C63" H 9142 3946 50  0000 L CNN
+F 1 "100uF" H 9142 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 9050 3900 50  0001 C CNN
+F 3 "~" H 9050 3900 50  0001 C CNN
+F 4 "C15008" H 9050 3900 50  0001 C CNN "JLCPCB"
+	1    9050 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E54B5
+P 9550 3900
+AR Path="/621E54B5" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E54B5" Ref="C67"  Part="1" 
+F 0 "C67" H 9642 3946 50  0000 L CNN
+F 1 "100uF" H 9642 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 9550 3900 50  0001 C CNN
+F 3 "~" H 9550 3900 50  0001 C CNN
+F 4 "C15008" H 9550 3900 50  0001 C CNN "JLCPCB"
+	1    9550 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E54BB
+P 10050 3900
+AR Path="/621E54BB" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E54BB" Ref="C71"  Part="1" 
+F 0 "C71" H 10142 3946 50  0000 L CNN
+F 1 "100uF" H 10142 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 10050 3900 50  0001 C CNN
+F 3 "~" H 10050 3900 50  0001 C CNN
+F 4 "C15008" H 10050 3900 50  0001 C CNN "JLCPCB"
+	1    10050 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E598F
+P 7550 4400
+AR Path="/621E598F" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E598F" Ref="C52"  Part="1" 
+F 0 "C52" H 7642 4446 50  0000 L CNN
+F 1 "100uF" H 7642 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 7550 4400 50  0001 C CNN
+F 3 "~" H 7550 4400 50  0001 C CNN
+F 4 "C15008" H 7550 4400 50  0001 C CNN "JLCPCB"
+	1    7550 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E5995
+P 8050 4400
+AR Path="/621E5995" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E5995" Ref="C56"  Part="1" 
+F 0 "C56" H 8142 4446 50  0000 L CNN
+F 1 "100uF" H 8142 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 8050 4400 50  0001 C CNN
+F 3 "~" H 8050 4400 50  0001 C CNN
+F 4 "C15008" H 8050 4400 50  0001 C CNN "JLCPCB"
+	1    8050 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E599B
+P 8550 4400
+AR Path="/621E599B" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E599B" Ref="C60"  Part="1" 
+F 0 "C60" H 8642 4446 50  0000 L CNN
+F 1 "100uF" H 8642 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 8550 4400 50  0001 C CNN
+F 3 "~" H 8550 4400 50  0001 C CNN
+F 4 "C15008" H 8550 4400 50  0001 C CNN "JLCPCB"
+	1    8550 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E59A1
+P 9050 4400
+AR Path="/621E59A1" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E59A1" Ref="C64"  Part="1" 
+F 0 "C64" H 9142 4446 50  0000 L CNN
+F 1 "100uF" H 9142 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 9050 4400 50  0001 C CNN
+F 3 "~" H 9050 4400 50  0001 C CNN
+F 4 "C15008" H 9050 4400 50  0001 C CNN "JLCPCB"
+	1    9050 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E59A7
+P 9550 4400
+AR Path="/621E59A7" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E59A7" Ref="C68"  Part="1" 
+F 0 "C68" H 9642 4446 50  0000 L CNN
+F 1 "100uF" H 9642 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 9550 4400 50  0001 C CNN
+F 3 "~" H 9550 4400 50  0001 C CNN
+F 4 "C15008" H 9550 4400 50  0001 C CNN "JLCPCB"
+	1    9550 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E59AD
+P 10050 4400
+AR Path="/621E59AD" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E59AD" Ref="C72"  Part="1" 
+F 0 "C72" H 10142 4446 50  0000 L CNN
+F 1 "100uF" H 10142 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 10050 4400 50  0001 C CNN
+F 3 "~" H 10050 4400 50  0001 C CNN
+F 4 "C15008" H 10050 4400 50  0001 C CNN "JLCPCB"
+	1    10050 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E8479
+P 4550 4400
+AR Path="/621E8479" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E8479" Ref="C28"  Part="1" 
+F 0 "C28" H 4642 4446 50  0000 L CNN
+F 1 "100uF" H 4642 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 4550 4400 50  0001 C CNN
+F 3 "~" H 4550 4400 50  0001 C CNN
+F 4 "C15008" H 4550 4400 50  0001 C CNN "JLCPCB"
+	1    4550 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E847F
+P 5050 4400
+AR Path="/621E847F" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E847F" Ref="C32"  Part="1" 
+F 0 "C32" H 5142 4446 50  0000 L CNN
+F 1 "100uF" H 5142 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 5050 4400 50  0001 C CNN
+F 3 "~" H 5050 4400 50  0001 C CNN
+F 4 "C15008" H 5050 4400 50  0001 C CNN "JLCPCB"
+	1    5050 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E8485
+P 5550 4400
+AR Path="/621E8485" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E8485" Ref="C36"  Part="1" 
+F 0 "C36" H 5642 4446 50  0000 L CNN
+F 1 "100uF" H 5642 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 5550 4400 50  0001 C CNN
+F 3 "~" H 5550 4400 50  0001 C CNN
+F 4 "C15008" H 5550 4400 50  0001 C CNN "JLCPCB"
+	1    5550 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E848B
+P 6050 4400
+AR Path="/621E848B" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E848B" Ref="C40"  Part="1" 
+F 0 "C40" H 6142 4446 50  0000 L CNN
+F 1 "100uF" H 6142 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 6050 4400 50  0001 C CNN
+F 3 "~" H 6050 4400 50  0001 C CNN
+F 4 "C15008" H 6050 4400 50  0001 C CNN "JLCPCB"
+	1    6050 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E8491
+P 6550 4400
+AR Path="/621E8491" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E8491" Ref="C44"  Part="1" 
+F 0 "C44" H 6642 4446 50  0000 L CNN
+F 1 "100uF" H 6642 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 6550 4400 50  0001 C CNN
+F 3 "~" H 6550 4400 50  0001 C CNN
+F 4 "C15008" H 6550 4400 50  0001 C CNN "JLCPCB"
+	1    6550 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E8497
+P 7050 4400
+AR Path="/621E8497" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E8497" Ref="C48"  Part="1" 
+F 0 "C48" H 7142 4446 50  0000 L CNN
+F 1 "100uF" H 7142 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 7050 4400 50  0001 C CNN
+F 3 "~" H 7050 4400 50  0001 C CNN
+F 4 "C15008" H 7050 4400 50  0001 C CNN "JLCPCB"
+	1    7050 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E94AF
+P 1550 4400
+AR Path="/621E94AF" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E94AF" Ref="C4"  Part="1" 
+F 0 "C4" H 1642 4446 50  0000 L CNN
+F 1 "100uF" H 1642 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 1550 4400 50  0001 C CNN
+F 3 "~" H 1550 4400 50  0001 C CNN
+F 4 "C15008" H 1550 4400 50  0001 C CNN "JLCPCB"
+	1    1550 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E94B5
+P 2050 4400
+AR Path="/621E94B5" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E94B5" Ref="C8"  Part="1" 
+F 0 "C8" H 2142 4446 50  0000 L CNN
+F 1 "100uF" H 2142 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 2050 4400 50  0001 C CNN
+F 3 "~" H 2050 4400 50  0001 C CNN
+F 4 "C15008" H 2050 4400 50  0001 C CNN "JLCPCB"
+	1    2050 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E94BB
+P 2550 4400
+AR Path="/621E94BB" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E94BB" Ref="C12"  Part="1" 
+F 0 "C12" H 2642 4446 50  0000 L CNN
+F 1 "100uF" H 2642 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 2550 4400 50  0001 C CNN
+F 3 "~" H 2550 4400 50  0001 C CNN
+F 4 "C15008" H 2550 4400 50  0001 C CNN "JLCPCB"
+	1    2550 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E94C1
+P 3050 4400
+AR Path="/621E94C1" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E94C1" Ref="C16"  Part="1" 
+F 0 "C16" H 3142 4446 50  0000 L CNN
+F 1 "100uF" H 3142 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 3050 4400 50  0001 C CNN
+F 3 "~" H 3050 4400 50  0001 C CNN
+F 4 "C15008" H 3050 4400 50  0001 C CNN "JLCPCB"
+	1    3050 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E94C7
+P 3550 4400
+AR Path="/621E94C7" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E94C7" Ref="C20"  Part="1" 
+F 0 "C20" H 3642 4446 50  0000 L CNN
+F 1 "100uF" H 3642 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 3550 4400 50  0001 C CNN
+F 3 "~" H 3550 4400 50  0001 C CNN
+F 4 "C15008" H 3550 4400 50  0001 C CNN "JLCPCB"
+	1    3550 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 621E94CD
+P 4050 4400
+AR Path="/621E94CD" Ref="C?"  Part="1" 
+AR Path="/621DE0CC/621E94CD" Ref="C24"  Part="1" 
+F 0 "C24" H 4142 4446 50  0000 L CNN
+F 1 "100uF" H 4142 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 4050 4400 50  0001 C CNN
+F 3 "~" H 4050 4400 50  0001 C CNN
+F 4 "C15008" H 4050 4400 50  0001 C CNN "JLCPCB"
+	1    4050 4400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1550 3000 2050 3000
+Wire Wire Line
+	10550 3000 10550 3500
+Wire Wire Line
+	10550 3500 10050 3500
+Connection ~ 2050 3000
+Wire Wire Line
+	2050 3000 2550 3000
+Connection ~ 2550 3000
+Wire Wire Line
+	2550 3000 3050 3000
+Connection ~ 3050 3000
+Wire Wire Line
+	3050 3000 3550 3000
+Connection ~ 3550 3000
+Wire Wire Line
+	3550 3000 4050 3000
+Connection ~ 4050 3000
+Wire Wire Line
+	4050 3000 4550 3000
+Connection ~ 4550 3000
+Wire Wire Line
+	4550 3000 5050 3000
+Connection ~ 5050 3000
+Wire Wire Line
+	5050 3000 5550 3000
+Connection ~ 5550 3000
+Wire Wire Line
+	5550 3000 6050 3000
+Connection ~ 6050 3000
+Wire Wire Line
+	6050 3000 6550 3000
+Connection ~ 6550 3000
+Wire Wire Line
+	6550 3000 7050 3000
+Connection ~ 7050 3000
+Wire Wire Line
+	7050 3000 7550 3000
+Connection ~ 7550 3000
+Wire Wire Line
+	7550 3000 8050 3000
+Connection ~ 8050 3000
+Wire Wire Line
+	8050 3000 8550 3000
+Connection ~ 8550 3000
+Wire Wire Line
+	8550 3000 9050 3000
+Connection ~ 9050 3000
+Wire Wire Line
+	9050 3000 9550 3000
+Connection ~ 9550 3000
+Wire Wire Line
+	9550 3000 10050 3000
+Connection ~ 10050 3000
+Wire Wire Line
+	10050 3000 10550 3000
+Connection ~ 2050 3500
+Wire Wire Line
+	2050 3500 1550 3500
+Connection ~ 2550 3500
+Wire Wire Line
+	2550 3500 2050 3500
+Connection ~ 3050 3500
+Wire Wire Line
+	3050 3500 2550 3500
+Connection ~ 3550 3500
+Wire Wire Line
+	3550 3500 3050 3500
+Connection ~ 4050 3500
+Wire Wire Line
+	4050 3500 3550 3500
+Connection ~ 4550 3500
+Wire Wire Line
+	4550 3500 4050 3500
+Connection ~ 5050 3500
+Wire Wire Line
+	5050 3500 4550 3500
+Connection ~ 5550 3500
+Wire Wire Line
+	5550 3500 5050 3500
+Connection ~ 6050 3500
+Wire Wire Line
+	6050 3500 5550 3500
+Connection ~ 6550 3500
+Wire Wire Line
+	6550 3500 6050 3500
+Connection ~ 7050 3500
+Wire Wire Line
+	7050 3500 6550 3500
+Connection ~ 7550 3500
+Wire Wire Line
+	7550 3500 7050 3500
+Connection ~ 8050 3500
+Wire Wire Line
+	8050 3500 7550 3500
+Connection ~ 8550 3500
+Wire Wire Line
+	8550 3500 8050 3500
+Connection ~ 9050 3500
+Wire Wire Line
+	9050 3500 8550 3500
+Connection ~ 9550 3500
+Wire Wire Line
+	9550 3500 9050 3500
+Connection ~ 10050 3500
+Wire Wire Line
+	10050 3500 9550 3500
+Wire Wire Line
+	1550 3500 1100 3500
+Wire Wire Line
+	1100 3500 1100 4000
+Wire Wire Line
+	1100 4000 1550 4000
+Wire Wire Line
+	10550 4000 10550 4500
+Wire Wire Line
+	10550 4500 10050 4500
+Connection ~ 1550 3500
+Connection ~ 1550 4000
+Wire Wire Line
+	1550 4000 2050 4000
+Connection ~ 2050 4000
+Wire Wire Line
+	2050 4000 2550 4000
+Connection ~ 2550 4000
+Wire Wire Line
+	2550 4000 3050 4000
+Connection ~ 3050 4000
+Wire Wire Line
+	3050 4000 3550 4000
+Connection ~ 3550 4000
+Wire Wire Line
+	3550 4000 4050 4000
+Connection ~ 4050 4000
+Wire Wire Line
+	4050 4000 4550 4000
+Connection ~ 4550 4000
+Wire Wire Line
+	4550 4000 5050 4000
+Connection ~ 5050 4000
+Wire Wire Line
+	5050 4000 5550 4000
+Connection ~ 5550 4000
+Wire Wire Line
+	5550 4000 6050 4000
+Connection ~ 6050 4000
+Wire Wire Line
+	6050 4000 6550 4000
+Connection ~ 6550 4000
+Wire Wire Line
+	6550 4000 7050 4000
+Connection ~ 7050 4000
+Wire Wire Line
+	7050 4000 7550 4000
+Connection ~ 7550 4000
+Wire Wire Line
+	7550 4000 8050 4000
+Connection ~ 8050 4000
+Wire Wire Line
+	8050 4000 8550 4000
+Connection ~ 8550 4000
+Wire Wire Line
+	8550 4000 9050 4000
+Connection ~ 9050 4000
+Wire Wire Line
+	9050 4000 9550 4000
+Connection ~ 9550 4000
+Wire Wire Line
+	9550 4000 10050 4000
+Connection ~ 10050 4000
+Wire Wire Line
+	10050 4000 10550 4000
+Connection ~ 2050 4500
+Wire Wire Line
+	2050 4500 1550 4500
+Connection ~ 2550 4500
+Wire Wire Line
+	2550 4500 2250 4500
+Connection ~ 3050 4500
+Wire Wire Line
+	3050 4500 2550 4500
+Connection ~ 3550 4500
+Wire Wire Line
+	3550 4500 3050 4500
+Connection ~ 4050 4500
+Wire Wire Line
+	4050 4500 3550 4500
+Connection ~ 4550 4500
+Wire Wire Line
+	4550 4500 4050 4500
+Connection ~ 5050 4500
+Wire Wire Line
+	5050 4500 4550 4500
+Connection ~ 5550 4500
+Wire Wire Line
+	5550 4500 5050 4500
+Connection ~ 6050 4500
+Wire Wire Line
+	6050 4500 5550 4500
+Connection ~ 6550 4500
+Wire Wire Line
+	6550 4500 6050 4500
+Connection ~ 7050 4500
+Wire Wire Line
+	7050 4500 6550 4500
+Connection ~ 7550 4500
+Wire Wire Line
+	7550 4500 7050 4500
+Connection ~ 8050 4500
+Wire Wire Line
+	8050 4500 7550 4500
+Connection ~ 8550 4500
+Wire Wire Line
+	8550 4500 8050 4500
+Connection ~ 9050 4500
+Wire Wire Line
+	9050 4500 8550 4500
+Connection ~ 9550 4500
+Wire Wire Line
+	9550 4500 9050 4500
+Connection ~ 10050 4500
+Wire Wire Line
+	10050 4500 9550 4500
+Wire Wire Line
+	10050 4300 9550 4300
+Wire Wire Line
+	1300 4300 1300 4850
+Wire Wire Line
+	1300 4850 10750 4850
+Wire Wire Line
+	10750 3800 10050 3800
+Connection ~ 1550 4300
+Wire Wire Line
+	1550 4300 1300 4300
+Connection ~ 2050 4300
+Wire Wire Line
+	2050 4300 1550 4300
+Connection ~ 2550 4300
+Wire Wire Line
+	2550 4300 2050 4300
+Connection ~ 3050 4300
+Wire Wire Line
+	3050 4300 2550 4300
+Connection ~ 3550 4300
+Wire Wire Line
+	3550 4300 3050 4300
+Connection ~ 4050 4300
+Wire Wire Line
+	4050 4300 3550 4300
+Connection ~ 4550 4300
+Wire Wire Line
+	4550 4300 4050 4300
+Connection ~ 5050 4300
+Wire Wire Line
+	5050 4300 4550 4300
+Connection ~ 5550 4300
+Wire Wire Line
+	5550 4300 5050 4300
+Connection ~ 6050 4300
+Wire Wire Line
+	6050 4300 5550 4300
+Connection ~ 6550 4300
+Wire Wire Line
+	6550 4300 6050 4300
+Connection ~ 7050 4300
+Wire Wire Line
+	7050 4300 6550 4300
+Connection ~ 7550 4300
+Wire Wire Line
+	7550 4300 7050 4300
+Connection ~ 8050 4300
+Wire Wire Line
+	8050 4300 7550 4300
+Connection ~ 8550 4300
+Wire Wire Line
+	8550 4300 8050 4300
+Connection ~ 9050 4300
+Wire Wire Line
+	9050 4300 8550 4300
+Connection ~ 9550 4300
+Wire Wire Line
+	9550 4300 9050 4300
+Connection ~ 2050 3800
+Wire Wire Line
+	2050 3800 1550 3800
+Connection ~ 2550 3800
+Wire Wire Line
+	2550 3800 2050 3800
+Connection ~ 3050 3800
+Wire Wire Line
+	3050 3800 2550 3800
+Connection ~ 3550 3800
+Wire Wire Line
+	3550 3800 3050 3800
+Connection ~ 4050 3800
+Wire Wire Line
+	4050 3800 3550 3800
+Connection ~ 4550 3800
+Wire Wire Line
+	4550 3800 4050 3800
+Connection ~ 5050 3800
+Wire Wire Line
+	5050 3800 4550 3800
+Connection ~ 5550 3800
+Wire Wire Line
+	5550 3800 5050 3800
+Connection ~ 6050 3800
+Wire Wire Line
+	6050 3800 5550 3800
+Connection ~ 6550 3800
+Wire Wire Line
+	6550 3800 6050 3800
+Connection ~ 7050 3800
+Wire Wire Line
+	7050 3800 6550 3800
+Connection ~ 7550 3800
+Wire Wire Line
+	7550 3800 7050 3800
+Connection ~ 8050 3800
+Wire Wire Line
+	8050 3800 7550 3800
+Connection ~ 8550 3800
+Wire Wire Line
+	8550 3800 8050 3800
+Connection ~ 9050 3800
+Wire Wire Line
+	9050 3800 8550 3800
+Connection ~ 9550 3800
+Wire Wire Line
+	9550 3800 9050 3800
+Connection ~ 10050 3800
+Wire Wire Line
+	10050 3800 9550 3800
+Wire Wire Line
+	10750 2800 10050 2800
+Wire Wire Line
+	1250 2800 1250 3300
+Wire Wire Line
+	1250 3300 1550 3300
+Connection ~ 1550 2800
+Wire Wire Line
+	1550 2800 1250 2800
+Connection ~ 2050 2800
+Wire Wire Line
+	2050 2800 1550 2800
+Connection ~ 2550 2800
+Wire Wire Line
+	2550 2800 2050 2800
+Connection ~ 3050 2800
+Wire Wire Line
+	3050 2800 2550 2800
+Connection ~ 3550 2800
+Wire Wire Line
+	3550 2800 3050 2800
+Connection ~ 4050 2800
+Wire Wire Line
+	4050 2800 3550 2800
+Connection ~ 4550 2800
+Wire Wire Line
+	4550 2800 4050 2800
+Connection ~ 5050 2800
+Wire Wire Line
+	5050 2800 4550 2800
+Connection ~ 5550 2800
+Wire Wire Line
+	5550 2800 5050 2800
+Connection ~ 6050 2800
+Wire Wire Line
+	6050 2800 5550 2800
+Connection ~ 6550 2800
+Wire Wire Line
+	6550 2800 6050 2800
+Connection ~ 7050 2800
+Wire Wire Line
+	7050 2800 6550 2800
+Connection ~ 7550 2800
+Wire Wire Line
+	7550 2800 7050 2800
+Connection ~ 8050 2800
+Wire Wire Line
+	8050 2800 7550 2800
+Connection ~ 8550 2800
+Wire Wire Line
+	8550 2800 8050 2800
+Connection ~ 9050 2800
+Wire Wire Line
+	9050 2800 8550 2800
+Connection ~ 9550 2800
+Wire Wire Line
+	9550 2800 9050 2800
+Connection ~ 10050 2800
+Wire Wire Line
+	10050 2800 9550 2800
+Connection ~ 1550 3300
+Wire Wire Line
+	1550 3300 2050 3300
+Connection ~ 2050 3300
+Wire Wire Line
+	2050 3300 2550 3300
+Connection ~ 2550 3300
+Wire Wire Line
+	2550 3300 3050 3300
+Connection ~ 3050 3300
+Wire Wire Line
+	3050 3300 3550 3300
+Connection ~ 3550 3300
+Wire Wire Line
+	3550 3300 4050 3300
+Connection ~ 4050 3300
+Wire Wire Line
+	4050 3300 4550 3300
+Connection ~ 4550 3300
+Wire Wire Line
+	4550 3300 5050 3300
+Connection ~ 5050 3300
+Wire Wire Line
+	5050 3300 5550 3300
+Connection ~ 5550 3300
+Wire Wire Line
+	5550 3300 6050 3300
+Connection ~ 6050 3300
+Wire Wire Line
+	6050 3300 6550 3300
+Connection ~ 6550 3300
+Wire Wire Line
+	6550 3300 7050 3300
+Connection ~ 7050 3300
+Wire Wire Line
+	7050 3300 7550 3300
+Connection ~ 7550 3300
+Wire Wire Line
+	7550 3300 8050 3300
+Connection ~ 8050 3300
+Wire Wire Line
+	8050 3300 8550 3300
+Connection ~ 8550 3300
+Wire Wire Line
+	8550 3300 9050 3300
+Connection ~ 9050 3300
+Wire Wire Line
+	9050 3300 9550 3300
+Connection ~ 9550 3300
+Wire Wire Line
+	9550 3300 10050 3300
+Wire Wire Line
+	10750 2800 10750 3800
+Connection ~ 10750 3800
+Wire Wire Line
+	10750 3800 10750 4850
+Wire Wire Line
+	2250 4500 2250 5200
+Connection ~ 2250 4500
+Wire Wire Line
+	2250 4500 2050 4500
+Wire Wire Line
+	1250 2800 1250 2150
+Connection ~ 1250 2800
+Text HLabel 1250 2150 1    50   Input ~ 0
++
+Text HLabel 2250 5200 3    50   Input ~ 0
+-
+$EndSCHEMATC
